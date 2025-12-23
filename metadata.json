@@ -1,0 +1,5 @@
+{
+  "name": "Neon Void Runner",
+  "description": "A high-octane 3D infinite space runner where you pilot a ship through a procedurally generated asteroid field. Built with React Three Fiber.",
+  "requestFramePermissions": []
+}
